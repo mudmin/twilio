@@ -1,0 +1,6 @@
+{
+    "require": {
+        "intervention/image": "^2.7",
+        "twilio/sdk": "^7.3"
+    }
+}
